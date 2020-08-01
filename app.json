@@ -1,0 +1,12 @@
+{
+  "name": "adunacast",
+  "displayName": "adunacast",
+  "expo": {
+    "name": "adunacast",
+    "slug": "adunacast",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
