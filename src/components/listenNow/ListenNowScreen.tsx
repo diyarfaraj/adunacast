@@ -5,7 +5,7 @@ const HomeScreen = () => {
     return (
         <Box f={1} center>
             <Text>
-                HomeScreen
+                Listen Now 
             </Text>
         </Box>
     )
